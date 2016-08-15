@@ -1,0 +1,8 @@
+# Fortran
+*.o
+*.out
+*.mod
+
+# Misc
+*~
+\#*
